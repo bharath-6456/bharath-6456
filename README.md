@@ -39,7 +39,7 @@ I'm a **3rd-year BTech student** at **VNR VJIET**, majoring in **Computer Scienc
 ## 🌍 Connect with Me
 
 - 💼 LinkedIn: [Bharath Siripuram](https://www.linkedin.com/in/bharath6456/)
-- 📧 Email: [bharathbharath@gmail.com](mailto:bharathbharath@gmail.com)
+- 📧 Email: [bharathbharath6456@gmail.com](mailto:bharathbharath6456@gmail.com)
 
 Feel free to check out my repositories! 😄
 
