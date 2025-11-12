@@ -1,6 +1,6 @@
 # Hi, I'm Bharath 👋
 
-I'm a **3rd-year BTech student** at **VNR VJIET**, majoring in **Computer Science and Business Systems**. I am passionate about solving real-world problems through technology, and I have hands-on experience in **Web Development**, **Blockchain**, and **Machine Learning**.
+I'm a **Final-year BTech student** at **VNR VJIET**, majoring in **Computer Science and Business Systems**. I am passionate about solving real-world problems through technology, and I have hands-on experience in **Web Development**, **Blockchain**, and **Machine Learning**.
 
 ## About Me
 
